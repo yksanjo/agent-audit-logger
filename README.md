@@ -1,5 +1,12 @@
 # agent-audit-logger
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-audit-logger/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-audit-logger/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-audit-logger)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-audit-logger)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-audit-logger)
+
 ## Detailed Description
 
 agent-audit-logger is maintained as an industry-grade software project with production-ready engineering practices.  
